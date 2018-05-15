@@ -1,0 +1,8 @@
+{
+  "name": "pec3_Ana_Viciano",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
